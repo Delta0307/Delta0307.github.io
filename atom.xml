@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Delta</title>
+  
+  <subtitle>再漂亮的笼子也关不住一颗追寻自由的心</subtitle>
+  <link href="http://deltaguo.fun/atom.xml" rel="self"/>
+  
+  <link href="http://deltaguo.fun/"/>
+  <updated>2023-06-09T05:31:11.849Z</updated>
+  <id>http://deltaguo.fun/</id>
+  
+  <author>
+    <name>Delta Guo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最后一根稻草，是网暴，还是？</title>
+    <link href="http://deltaguo.fun/2023/06/08/comment/20230608/"/>
+    <id>http://deltaguo.fun/2023/06/08/comment/20230608/</id>
+    <published>2023-06-08T12:19:55.000Z</published>
+    <updated>2023-06-09T05:31:11.849Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这两周发生了一件十分闹心的事情，一个社会事件，却少有的让我难过。5月23号那天武汉有一名小学生在校园里被教师的车辆碾过去了，当场死亡。我其实当场就看到新闻了，但这其实和一般的社会上意外事件没什么差别，事情没发生在自己头上，也引发不了什么触动。真正引起触动的是在孩子去世的头七</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="http://deltaguo.fun/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>不忘初心，牢记始终</title>
+    <link href="http://deltaguo.fun/2023/06/06/foreword/"/>
+    <id>http://deltaguo.fun/2023/06/06/foreword/</id>
+    <published>2023-06-06T08:28:31.000Z</published>
+    <updated>2023-06-09T05:31:00.211Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本来从2020年考研那时候就有了写博客的习惯，但可惜考完研放飞自我了，并且重装系统的时候把之前写好的博客markdown源文件都弄丢了，所以这一版的博客算是从新开始。希望今后能够好好备份。在如临大敌的时候常常需要可以沉浸的时间来调节自己，写作是一种很好的方式。&lt;/p&gt;
+&lt;p</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="http://deltaguo.fun/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+  </entry>
+  
+</feed>
