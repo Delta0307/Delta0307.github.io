@@ -2,7 +2,7 @@
   --body-bg-color: #f5f7f9;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
-  --text-color: #555;
+  --text-color: #333;
   --blockquote-color: #666;
   --link-color: #555;
   --link-hover-color: #222;
@@ -12,8 +12,8 @@
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --btn-default-bg: #fff;
-  --btn-default-color: #555;
-  --btn-default-border-color: #555;
+  --btn-default-color: #333;
+  --btn-default-border-color: #333;
   --btn-default-hover-bg: #222;
   --btn-default-hover-color: #fff;
   --btn-default-hover-border-color: #222;
@@ -580,7 +580,7 @@ pre .javascript .function {
   margin-bottom: 10px;
 }
 .post-body .label {
-  color: #555;
+  color: #333;
   display: inline;
   padding: 0 2px;
 }
@@ -1246,7 +1246,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #795dbf;
+  background: #388f0b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1446,7 +1446,7 @@ pre .javascript .function {
   font-size: 0.8125em;
 }
 .footer {
-  color: #999;
+  color: #f5f5f5;
   font-size: 0.875em;
   padding: 20px 0;
 }
