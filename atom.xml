@@ -6,7 +6,7 @@
   <link href="http://deltaguo.fun/atom.xml" rel="self"/>
   
   <link href="http://deltaguo.fun/"/>
-  <updated>2023-06-12T05:33:18.657Z</updated>
+  <updated>2023-06-14T02:03:04.427Z</updated>
   <id>http://deltaguo.fun/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于tensorflow的Mnist手写数字识别</title>
+    <link href="http://deltaguo.fun/2023/06/14/technology/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%ABMnist/"/>
+    <id>http://deltaguo.fun/2023/06/14/technology/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%ABMnist/</id>
+    <published>2023-06-14T02:03:44.000Z</published>
+    <updated>2023-06-14T02:03:04.427Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这是一个使用tensorflow进行网络搭建，导入数据集，训练得到模型的一个简单示例，对于深度学习的初学者来说可以完整地体验到训练一个模型的过程。&lt;/p&gt;
+&lt;p&gt;​</summary>
+    
+    
+    
+    <category term="技术" scheme="http://deltaguo.fun/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>不忘初心，牢记始终</title>
